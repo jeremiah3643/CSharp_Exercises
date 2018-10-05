@@ -24,7 +24,7 @@ namespace classes {
         }
         public void ListEmployees () {
             foreach (Employee employee in employees) {
-                Console.WriteLine ($"{employee.FirstName} " + $"{ employee.LastName} works for" + $" {this.Name}, As" + $"{employee.Title} since " + $"{employee.StartDate}");
+                Console.WriteLine ($"{employee.FirstName} " + $"{ employee.LastName} works for" + $" {this.Name}, As " + $"{employee.Title} since " + $"{employee.StartDate}");
             };
         }
 
