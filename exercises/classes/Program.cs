@@ -3,15 +3,7 @@ using System.Collections.Generic;
 
 namespace classes {
 
-    public class Employee {
-
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string Title { get; set; }
-        public DateTime StartDate { get; set; }
-
-    }
-
+    
     class Program {
         static void Main (string[] args) {
             // Create an instance of a company. Name it whatever you like.
