@@ -1,0 +1,4 @@
+/home/jeremiah/workspace/csharp/exercises/tryCatch/obj/Debug/netcoreapp2.1/tryCatch.csprojAssemblyReference.cache
+/home/jeremiah/workspace/csharp/exercises/tryCatch/obj/Debug/netcoreapp2.1/tryCatch.csproj.CoreCompileInputs.cache
+/home/jeremiah/workspace/csharp/exercises/tryCatch/obj/Debug/netcoreapp2.1/tryCatch.AssemblyInfoInputs.cache
+/home/jeremiah/workspace/csharp/exercises/tryCatch/obj/Debug/netcoreapp2.1/tryCatch.AssemblyInfo.cs
