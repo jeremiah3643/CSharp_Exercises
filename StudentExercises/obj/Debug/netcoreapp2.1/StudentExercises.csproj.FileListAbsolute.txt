@@ -1,0 +1,11 @@
+/home/jeremiah/workspace/csharp/StudentExercises/bin/Debug/netcoreapp2.1/StudentExercises.deps.json
+/home/jeremiah/workspace/csharp/StudentExercises/bin/Debug/netcoreapp2.1/StudentExercises.runtimeconfig.json
+/home/jeremiah/workspace/csharp/StudentExercises/bin/Debug/netcoreapp2.1/StudentExercises.runtimeconfig.dev.json
+/home/jeremiah/workspace/csharp/StudentExercises/bin/Debug/netcoreapp2.1/StudentExercises.dll
+/home/jeremiah/workspace/csharp/StudentExercises/bin/Debug/netcoreapp2.1/StudentExercises.pdb
+/home/jeremiah/workspace/csharp/StudentExercises/obj/Debug/netcoreapp2.1/StudentExercises.csprojAssemblyReference.cache
+/home/jeremiah/workspace/csharp/StudentExercises/obj/Debug/netcoreapp2.1/StudentExercises.csproj.CoreCompileInputs.cache
+/home/jeremiah/workspace/csharp/StudentExercises/obj/Debug/netcoreapp2.1/StudentExercises.AssemblyInfoInputs.cache
+/home/jeremiah/workspace/csharp/StudentExercises/obj/Debug/netcoreapp2.1/StudentExercises.AssemblyInfo.cs
+/home/jeremiah/workspace/csharp/StudentExercises/obj/Debug/netcoreapp2.1/StudentExercises.dll
+/home/jeremiah/workspace/csharp/StudentExercises/obj/Debug/netcoreapp2.1/StudentExercises.pdb
